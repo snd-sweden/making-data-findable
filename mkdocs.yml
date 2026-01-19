@@ -1,0 +1,47 @@
+site_name: "Making data findable: Recommendations for making published research data findable"
+repo_url: https://github.com/snd-sweden/making-data-findable/
+repo_name: making-data-findable
+copyright: 'Chalmers University of Technology, KTH Royal Institute of Technology, Swedish National Data Service & University of Gothenburg 2026 | <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC-BY 4.0</a>'
+
+theme:
+    name: material
+    language: en
+    logo: img/snd.svg
+    palette:
+        primary: white
+        accent: indigo
+    features:
+        - header.autohide
+        - navigation.top
+        - navigation.footer
+        - navigation.tabs
+        - search.suggest
+        - search.highlight
+        
+extra:
+    generator: false
+    social:
+    - icon: fontawesome/solid/house 
+      link: https://snd.se
+    - icon: fontawesome/brands/github 
+      link: https://github.com/snd-sweden
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/2228489365
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@svensknationelldatatjanst8231
+      
+plugins:
+    - search: {}
+#    - bibtex:
+#        bib_file: "refs.bib"
+#        csl_file: "ieee.csl"
+#        bib_by_default: true
+
+markdown_extensions:
+    - toc:
+        permalink: true
+#    - footnotes
+
+nav:
+    - Recommendations for researchers: researchers/index.md
+    - Recommendations for organisations: organisations/index.md
