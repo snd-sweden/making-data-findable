@@ -43,5 +43,14 @@ markdown_extensions:
 #    - footnotes
 
 nav:
-    - Recommendations for researchers: researchers/index.md
-    - Recommendations for organisations: organisations/index.md
+    - Making data findable: index.md
+    - Recommendations for researchers:
+        - researchers/index.md
+        - 1. Create independent data publications: researchers/core-independent.md
+        - 2. Use PIDs: researchers/core-pids.md
+        - 3. Cite data: researchers/core-cite.md
+    - Recommendations for organisations: 
+        - organisations/index.md
+        - 1. Manage organisational metadata and PIDs: organisations/core-metadata.md
+        - 2. Monitor and curate data: organisations/core-curate.md
+        - 3. Connect and automate: organisations/core-connect.md
