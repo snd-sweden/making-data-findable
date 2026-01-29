@@ -11,3 +11,5 @@ When data publications are not cited as formal references, they are often exclud
 [Force11 Joint declaration of Data Citation principles](https://doi.org/10.25490/a97f-egyk)
 
 [Force11:A primer](https://force11.github.io/data-citation-primer/authors/)
+
+[CESSDA Data Citation Guide](https://datacitation.cessda.eu/)
