@@ -40,17 +40,29 @@ plugins:
 markdown_extensions:
     - toc:
         permalink: true
+        toc_depth: 2
 #    - footnotes
 
 nav:
+#    - Making data findable: index.md
+#    - Recommendations for researchers:
+#        - researchers/index.md
+#        - 1. Create independent data publications: researchers/core-independent.md
+#        - 2. Use PIDs: researchers/core-pids.md
+#        - 3. Cite data: researchers/core-cite.md
+#    - Recommendations for organisations: 
+#        - organisations/index.md
+#        - 1. Manage organisational metadata and PIDs: organisations/core-metadata.md
+#        - 2. Monitor and curate data: organisations/core-curate.md
+#        - 3. Connect and automate: organisations/core-connect.md
     - Making data findable: index.md
     - Recommendations for researchers:
         - researchers/index.md
-        - 1. Create independent data publications: researchers/core-independent.md
-        - 2. Use PIDs: researchers/core-pids.md
-        - 3. Cite data: researchers/core-cite.md
+        - Publication and citation: researchers/publication-citation.md
+        - Metadata and identifiers: researchers/metadata-identifiers.md
+        - Tools and workflows: researchers/tools-workflows.md 
     - Recommendations for organisations: 
         - organisations/index.md
-        - 1. Manage organisational metadata and PIDs: organisations/core-metadata.md
-        - 2. Monitor and curate data: organisations/core-curate.md
-        - 3. Connect and automate: organisations/core-connect.md
+        - Strategic implementation: organisations/strategic-implementation.md
+        - Infrastructure and standards: organisations/infrastructure-standards.md
+        - Support and services: organisations/support-services.md
