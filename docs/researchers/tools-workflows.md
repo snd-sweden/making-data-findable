@@ -6,7 +6,7 @@ Select a suitable repository for your data. Some commonly used alternatives are:
 [Zenodo](https://zenodo.org/) - Generalist repository (many different types of data are accepted) hosted by CERN.
 Instructions are available at [Zenodo.org](https://help.zenodo.org/)
 
-[SND-DORIS](https://snd.se/en/doris-researchers) - Generalist repository hosted by CERN.
+[DORIS (SND)](https://snd.se/en/services/doris) - Tool for publishing data in Swedish generalist repositories, including the CoreTrustSeal-certified SND-CARE.
 Instructions are available at [SND.se](https://snd.se/en/doris-researchers/describe-data-doris)
 
 [re3data](https://www.re3data.org/) - Comprehensive registry of existing research data repositories. Here you can search for suitable data repositories and find domain specific repositories (focused on specific data types).
